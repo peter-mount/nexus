@@ -1,7 +1,7 @@
 FROM area51/java:serverjre-8
 MAINTAINER Peter Mount <peter@retep.org>
 
-ENV NEXUS_VERSION latest
+ENV NEXUS_VERSION 3.3.1-01
 
 ENV NEXUS_PORT 8081
 
